@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+
+}
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb#f0f0f0
+    }
+    header{
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    
+    
+    }
+    nav{
+background-color: rgb(14, 15, 15);
+
+
+    }
+    nav ul{
+        display: flex;
+        list-style: none;
+        justify-content: center;
+        padding: 10px;
+    }
+    nav ul li{
+
+        margin:0 15px;
+    }
+    nav ul li a{
+
+        color: white;
+        text-decoration: none;
+        padding: 10px;
+    }
+    nav ul li a:hover{
+
+        color:#4CAF50
+    }
+    section{
+
+        
+    }
